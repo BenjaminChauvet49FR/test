@@ -8,6 +8,6 @@ public class Main {
 		System.out.println(Strings.isNullOrEmpty("ok"));
 	}
 	
-	/*Modification sur myawesometesting*/
+	/*Je modifie directement sur GitHub, moi !*/
 
 }
