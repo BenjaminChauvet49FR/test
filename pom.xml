@@ -13,6 +13,7 @@
 			<scope></scope>
 		</dependency>
 		
+		<!-- Modification dans le cadre de git -->
 		
 		<!-- http://mvnrepository.com/artifact/com.google.guava/guava -->
 		<dependency>
